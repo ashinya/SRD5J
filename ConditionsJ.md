@@ -111,7 +111,7 @@
 
 ---
 
-## ライセンス
+# ライセンス
 
 注記があるものを除き、このぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
 
